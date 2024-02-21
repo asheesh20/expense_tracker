@@ -10,7 +10,7 @@ Expense Tracker App created using flutter.
 
 ![3](https://github.com/asheesh20/expense_tracker/assets/98988175/22f4cabd-e263-42e5-a2b9-ad52971ba750)
 
-![4](https://github.com/asheesh20/expense_tracker/assets/98988175/8f28447f-8054-4e80-829c-7547b5753e84)
+![1708547691280](https://github.com/asheesh20/expense_tracker/assets/98988175/43d228f4-904c-4ee2-b823-b84395e839cf)
 
 
 ## Getting Started
